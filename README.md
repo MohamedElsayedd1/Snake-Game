@@ -7,3 +7,7 @@ Fruit: Randomly spawned on the screen. Eating fruit increases the snake's length
 Game Over: Occurs when the snake runs into a wall or itself.
 Score: Displayed on the console.
 Smooth Gameplay: Utilizes Sleep() function for smooth animation.
+
+<p align="center">
+    <img src="https://github.com/MohamedElsayedd1/Axe-Game/blob/main/Gameplay.gif" width="600" />
+</p>
