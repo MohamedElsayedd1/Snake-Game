@@ -9,5 +9,5 @@ Score: Displayed on the console.
 Smooth Gameplay: Utilizes Sleep() function for smooth animation.
 
 <p align="center">
-    <img src="https://github.com/MohamedElsayedd1/Axe-Game/blob/main/Gameplay.gif" width="600" />
+    <img src="https://github.com/MohamedElsayedd1/Snake-Game/blob/main/Gameplay.gif" width="600" />
 </p>
